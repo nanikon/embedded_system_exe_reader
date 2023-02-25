@@ -1,0 +1,92 @@
+Entry point:	14E0
+
+Name:	.text
+Virtual size:	1794
+Size of raw data:	1800
+Virtual address:	1000
+Pointer to raw data:	400
+
+Name:	.data
+Virtual size:	30
+Size of raw data:	200
+Virtual address:	3000
+Pointer to raw data:	1C00
+
+Name:	.rdata
+Virtual size:	560
+Size of raw data:	600
+Virtual address:	4000
+Pointer to raw data:	1E00
+
+Name:	.bss
+Virtual size:	3F0
+Size of raw data:	0
+Virtual address:	5000
+Pointer to raw data:	0
+
+Name:	.idata
+Virtual size:	5A4
+Size of raw data:	600
+Virtual address:	6000
+Pointer to raw data:	2400
+
+Name:	.CRT
+Virtual size:	34
+Size of raw data:	200
+Virtual address:	7000
+Pointer to raw data:	2A00
+
+Name:	.tls
+Virtual size:	20
+Size of raw data:	200
+Virtual address:	8000
+Pointer to raw data:	2C00
+
+Name:	/4
+Virtual size:	2A0
+Size of raw data:	400
+Virtual address:	9000
+Pointer to raw data:	2E00
+
+Name:	/19
+Virtual size:	46FAA
+Size of raw data:	47000
+Virtual address:	A000
+Pointer to raw data:	3200
+
+Name:	/31
+Virtual size:	23A5
+Size of raw data:	2400
+Virtual address:	51000
+Pointer to raw data:	4A200
+
+Name:	/45
+Virtual size:	252B
+Size of raw data:	2600
+Virtual address:	54000
+Pointer to raw data:	4C600
+
+Name:	/57
+Virtual size:	758
+Size of raw data:	800
+Virtual address:	57000
+Pointer to raw data:	4EC00
+
+Name:	/70
+Virtual size:	742
+Size of raw data:	800
+Virtual address:	58000
+Pointer to raw data:	4F400
+
+Name:	/81
+Virtual size:	CED
+Size of raw data:	E00
+Virtual address:	59000
+Pointer to raw data:	4FC00
+
+Name:	/92
+Virtual size:	208
+Size of raw data:	400
+Virtual address:	5A000
+Pointer to raw data:	50A00
+
